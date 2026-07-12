@@ -39,6 +39,17 @@
 <h1 align="center">web-perf-audit</h1>
 
 <p align="center">
+  <a href="README.md">English</a>&nbsp;·&nbsp;
+  📖 <b>简体中文</b>&nbsp;·&nbsp;
+  <a href="README_zh-TW.md">繁體中文</a>&nbsp;·&nbsp;
+  <a href="README_ja.md">日本語</a>&nbsp;·&nbsp;
+  <a href="README_ko.md">한국어</a>&nbsp;·&nbsp;
+  <a href="README_es.md">Español</a>&nbsp;·&nbsp;
+  <a href="README_tr.md">Türkçe</a>&nbsp;·&nbsp;
+  <a href="README_ru.md">Русский</a>
+</p>
+
+<p align="center">
   <strong>不止是跑分 — 直接把可执行的优化方案交到你手里。</strong><br>
   多 Agent Web 性能审计流水线：SCAN → ANALYZE → SCORE → REPORT。<br>
   基于 web.dev 官方标准，每个问题都带着复制的修复代码和预期收益。<br>

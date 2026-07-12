@@ -39,6 +39,17 @@
 <h1 align="center">web-perf-audit</h1>
 
 <p align="center">
+  <a href="README.md">English</a>&nbsp;·&nbsp;
+  <a href="README_zh-CN.md">简体中文</a>&nbsp;·&nbsp;
+  <a href="README_zh-TW.md">繁體中文</a>&nbsp;·&nbsp;
+  <a href="README_ja.md">日本語</a>&nbsp;·&nbsp;
+  📖 <b>한국어</b>&nbsp;·&nbsp;
+  <a href="README_es.md">Español</a>&nbsp;·&nbsp;
+  <a href="README_tr.md">Türkçe</a>&nbsp;·&nbsp;
+  <a href="README_ru.md">Русский</a>
+</p>
+
+<p align="center">
   <strong>점수만 내는 게 아닙니다 — 실행 가능한 최적화 방안을 직접 전달합니다.</strong><br>
   멀티 에이전트 Web 성능 감사 파이프라인: SCAN → ANALYZE → SCORE → REPORT.<br>
   web.dev 공식 표준 기반. 모든 문제에 복사-붙여넣기 가능한 수정 코드와 예상 개선 효과를 함께 제공합니다.<br>

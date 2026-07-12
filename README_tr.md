@@ -39,6 +39,17 @@
 <h1 align="center">web-perf-audit</h1>
 
 <p align="center">
+  <a href="README.md">English</a>&nbsp;·&nbsp;
+  <a href="README_zh-CN.md">简体中文</a>&nbsp;·&nbsp;
+  <a href="README_zh-TW.md">繁體中文</a>&nbsp;·&nbsp;
+  <a href="README_ja.md">日本語</a>&nbsp;·&nbsp;
+  <a href="README_ko.md">한국어</a>&nbsp;·&nbsp;
+  <a href="README_es.md">Español</a>&nbsp;·&nbsp;
+  📖 <b>Türkçe</b>&nbsp;·&nbsp;
+  <a href="README_ru.md">Русский</a>
+</p>
+
+<p align="center">
   <strong>Sadece puan değil — doğrudan uygulanabilir optimizasyon çözümleri.</strong><br>
   Çoklu Ajan Web Performans Denetim Hattı: SCAN → ANALYZE → SCORE → REPORT.<br>
   web.dev resmi standartlarına dayalı. Her sorun kopyala-yapıştır düzeltme kodu ve tahmini kazanç ile birlikte.<br>

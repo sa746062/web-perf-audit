@@ -39,6 +39,17 @@
 <h1 align="center">web-perf-audit</h1>
 
 <p align="center">
+  📖 <b>English</b>&nbsp;·&nbsp;
+  <a href="README_zh-CN.md">简体中文</a>&nbsp;·&nbsp;
+  <a href="README_zh-TW.md">繁體中文</a>&nbsp;·&nbsp;
+  <a href="README_ja.md">日本語</a>&nbsp;·&nbsp;
+  <a href="README_ko.md">한국어</a>&nbsp;·&nbsp;
+  <a href="README_es.md">Español</a>&nbsp;·&nbsp;
+  <a href="README_tr.md">Türkçe</a>&nbsp;·&nbsp;
+  <a href="README_ru.md">Русский</a>
+</p>
+
+<p align="center">
   <strong>Fixes that ship > advice that sits in a dashboard.</strong><br>
   Multi-Agent Web Performance Audit Pipeline — SCAN → ANALYZE → SCORE → REPORT.<br>
   Not another Lighthouse wrapper. A complete audit-to-fix workflow with CWV impact estimates.<br>

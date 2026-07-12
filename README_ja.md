@@ -39,6 +39,17 @@
 <h1 align="center">web-perf-audit</h1>
 
 <p align="center">
+  <a href="README.md">English</a>&nbsp;·&nbsp;
+  <a href="README_zh-CN.md">简体中文</a>&nbsp;·&nbsp;
+  <a href="README_zh-TW.md">繁體中文</a>&nbsp;·&nbsp;
+  📖 <b>日本語</b>&nbsp;·&nbsp;
+  <a href="README_ko.md">한국어</a>&nbsp;·&nbsp;
+  <a href="README_es.md">Español</a>&nbsp;·&nbsp;
+  <a href="README_tr.md">Türkçe</a>&nbsp;·&nbsp;
+  <a href="README_ru.md">Русский</a>
+</p>
+
+<p align="center">
   <strong>スコアだけじゃない — 実行可能な最適化案を手渡します。</strong><br>
   マルチエージェント Web パフォーマンス監査パイプライン：SCAN → ANALYZE → SCORE → REPORT。<br>
   web.dev 公式標準に準拠。各問題にコピペ可能な修正コードと改善見込みを添えて。<br>
