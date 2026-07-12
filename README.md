@@ -60,9 +60,6 @@
   </a>
 </p>
 
-<p align="center">
-  <code>npx web-perf-audit --url https://example.com --audience dev</code>
-</p>
 
 ---
 
