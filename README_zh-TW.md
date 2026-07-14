@@ -267,9 +267,6 @@ Lighthouse 給分數和審計列表。我們在此基礎上額外做了 5 個維
 | [AgentHub](https://github.com/EVEDensity/AgentHub) | 多 Agent 編排平台 — web-perf-audit 是官方插件 |
 | [MineWorld](https://github.com/EVEDensity/MineWorld) | WebGL 體素引擎 — 效能優化經驗的本工具來源 |
 
-### 推薦 Topics
-
-`web-performance` `core-web-vitals` `lighthouse` `performance-audit` `web-vitals` `claude-code` `devtools` `pagespeed-insights` `webperf` `performance-budget` `ci-cd` `frontend-engineering`
 
 ---
 
